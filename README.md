@@ -115,6 +115,7 @@
 - **[Lobe Chat](https://github.com/lobehub/lobe-chat)** ⭐ 63k+ - Open-source UI framework for building ChatGPT/LLM-based chat applications
 - **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** ⭐ 61k+ - Open-source initiative replicating autonomous AI software engineer Devin
 - **[E2B](https://github.com/e2b-dev/e2b)** - Open platform for AI agents & AI apps
+- **[Aident Loadout](https://aident.ai)** - Hosted MCP server and CLI that gives Claude Code, Codex, Cursor and other agents connected apps and 400+ Skills, with a credential vault and audit logs
 
 ## 🔄 Multi-Agent Systems
 
